@@ -1,4 +1,4 @@
-int stb_test()
+int rapidjson_test()
 {
 	return 0;
 }
